@@ -1,6 +1,6 @@
 # ¡Hola, soy Ángel Jurado Bejarano! 👋
 
-Bienvenid@ a mi perfil de GitHub. Soy un apasionado desarrollador de software en pleno proceso de despliegue de mi carrera profesional.
+Bienvenid@ a mi perfil de GitHub. Soy un apasionado desarrollador de software en pleno proceso de desarrollo profesional.
 
 ## Acerca de mí
 
